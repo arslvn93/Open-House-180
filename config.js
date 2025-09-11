@@ -133,8 +133,8 @@ const config = {
   "deploymentInfo": {
     "repoName": "Open-House-180",
     "repoUrl": "https://github.com/arslvn93/Open-House-180",
-    "tag": "Open House 133 Raina Way",
+    "tag": "Leads | 133 Raina Way Open House",
     "siteId": "06194a17-b045-4089-bbe1-1f00ad49d2c5",
-    "netlifyUrl": ""
+    "netlifyUrl": "https://services.leadconnectorhq.com/hooks/CVLYBNRm65xkdYXWeFCq/webhook-trigger/Bz5U2LrvSTZglC5ZrM8D"
   }
 };
